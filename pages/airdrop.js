@@ -1,6 +1,5 @@
 import Navbar from '../components/navbar';
 import Featured from '../components/featured';
-import Thumbnails from '../components/thumbnails';
 import Footer from '../components/footer';
 
 export default function Home() {

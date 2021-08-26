@@ -1,6 +1,5 @@
 import Navbar from '../components/navbar';
-import Featured from '../components/featured';
-import Thumbnails from '../components/thumbnails';
+import Featured2 from '../components/featured2';
 import Footer from '../components/footer';
 
 export default function Home() {
@@ -8,7 +7,7 @@ export default function Home() {
     <div className='bg-gray-900'>
       <Navbar />
       <div className='mx-auto min-h-screen max-w-6xl'>
-        <Featured />
+        <Featured2 />
       </div>
 
       <Footer />
